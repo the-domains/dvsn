@@ -12,5 +12,9 @@ color:
     - '#545454'
 layout_spectrum: 0.33243419299833477
 name: DVSN
+navigation:
+  - name: DVSN Mag
+    url: 'http://www.thestyledivision.com/'
+    type: external
 title: DVSN
 description: Collective
