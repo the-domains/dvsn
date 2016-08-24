@@ -1,0 +1,14 @@
+layout_spectrum: 0.33243419299833477
+typography_spectrum: 0.7325420819688588
+color:
+  brandStrength: 0.5836749274749309
+  lightness: 0.6623827002476901
+  saturation: 0.6695849797688425
+  rhythmicContrast: 0.5459689239505678
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: DVSN
