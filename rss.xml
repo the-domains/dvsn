@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DVSN]]></title>
-        <description><![CDATA[DVSN]]></description>
+        <title><![CDATA[DVSN Collective]]></title>
+        <description><![CDATA[DVSN Collective]]></description>
         <link>https://thegrid.ai/dvsn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 18:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 18:49:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvsn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Faces 02 // Photography Journal 47]]></title>
+            <description><![CDATA[<article><h1>New Faces 02 // Photography Journal 47</h1><p>In my early photography days I played it safe, taking pictures of buildings and landscapes and simply honing my skills. Over the last few months however I picked up a Canon 7D and a Sigma lens to take some interesting pictures during LCM and LFW for Fucking Young Mag.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e2cd7029a4a0f6f5e2727a4fb3a691b/noop.jpg?input=http%3A%2F%2Fwww.thestyledivision.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fnew-faces-photography-models.jpg"></article>]]></description>
+            <link>http://www.thestyledivision.com/new-faces-02</link>
+            <guid isPermaLink="false">f79a795b-2a17-4e8e-a16a-298e4baf9a51</guid>
+            <pubDate>Wed, 24 Aug 2016 18:49:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bologna, Italy // Anton Dee Explores]]></title>
             <description><![CDATA[<article><h1>Bologna, Italy // Anton Dee Explores</h1><p>Every time I visit Italy my train passes Bologna and I just can't help but jump out, even for a couple of hours. Bologna boasts a one of a kind atmosphere that's hard to replicate, even with other Italian cities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/862ca6257114905c42c5e887cb4893b3/noop.jpg?input=http%3A%2F%2Fwww.thestyledivision.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbologna-art-of-visuals-travel-blogger-italy-4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.thestyledivision.com/farah-menswear-london-lookbook</link>
             <guid isPermaLink="false">8be1ab22-6634-4da7-ae77-12365ebbb924</guid>
             <pubDate>Wed, 24 Aug 2016 18:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bench Original // Lookbook 38]]></title>
-            <description><![CDATA[<article><h1>Bench Original // Lookbook 38</h1><p>One of my favourite areas to explore in London is Bank / City of London. City of London is actually a city and county within London itself so the name may be a little confusing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e698e49e9ebfa0e72f968586d6ec6103/noop.jpg?input=http%3A%2F%2Fwww.thestyledivision.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbench-originals-love-hood-lookbook-london-street-style-3.jpg"></article>]]></description>
-            <link>http://www.thestyledivision.com/bech-original-lookbook-ootd</link>
-            <guid isPermaLink="false">de07788d-949e-4620-b903-c524a019b7fa</guid>
-            <pubDate>Wed, 24 Aug 2016 18:17:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
