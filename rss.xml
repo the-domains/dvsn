@@ -4,7 +4,7 @@
         <description><![CDATA[DVSN Collective]]></description>
         <link>https://thegrid.ai/dvsn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 12:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:03:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvsn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Faces 02 // Photography Journal 47]]></title>
@@ -68,6 +68,13 @@
             <link>http://www.thestyledivision.com/new-faces-03</link>
             <guid isPermaLink="false">5580d32f-e6b0-4908-a1f9-e44b29b897f1</guid>
             <pubDate>Wed, 24 Aug 2016 18:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RCD]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/699ca274-41a7-4586-9aee-46c741494190.jpg" alt="Test Caption">]]></description>
+            <link>http://rockcouturedreams.blogspot.co.uk/2016/08/nicaragua-and-detrimental-nature-of.html</link>
+            <guid isPermaLink="false">829039ab-b11a-4e69-ae29-a979dac4ec6c</guid>
+            <pubDate>Wed, 31 Aug 2016 12:03:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
