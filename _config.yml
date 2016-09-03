@@ -1,4 +1,3 @@
-layout_spectrum: 0.9812845424748957
 typography_spectrum: 0.5599166853353381
 color:
   brandColors:
@@ -10,15 +9,12 @@ color:
   lightness: 0.711806058883667
   saturation: 0.6169003508985043
   rhythmicContrast: 0.8592463175300509
-coverPrefs:
-  filter: false
-name: DVSN
+layout_spectrum: 0.9812845424748957
 analytics:
   facebook: ''
   google: UA-30551785-1
   twitter: ''
+name: DVSN
 title: DVSN Collective
-navigation:
-  - name: DVSN Mag
-    url: 'http://www.thestyledivision.com/'
-    type: external
+coverPrefs:
+  filter: false
