@@ -15,6 +15,10 @@ analytics:
   google: UA-30551785-1
   twitter: ''
 name: DVSN
+navigation:
+  - name: DVSN Mag
+    url: 'http://www.thestyledivision.com/'
+    type: external
 title: DVSN Collective
 coverPrefs:
   filter: false
