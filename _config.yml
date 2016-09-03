@@ -1,4 +1,5 @@
-typography_spectrum: 0.5599166853353381
+layout_spectrum: 0.6478083173278719
+typography_spectrum: 0.9533009305596352
 color:
   brandColors:
     - '#222222'
@@ -9,7 +10,8 @@ color:
   lightness: 0.711806058883667
   saturation: 0.6169003508985043
   rhythmicContrast: 0.8592463175300509
-layout_spectrum: 0.9812845424748957
+coverPrefs:
+  filter: false
 analytics:
   facebook: ''
   google: UA-30551785-1
@@ -23,5 +25,3 @@ navigation:
     url: 'http://www.thestyledivision.com/visual-creative-journal'
     type: external
 title: DVSN Collective
-coverPrefs:
-  filter: false
